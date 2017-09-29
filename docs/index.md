@@ -16,4 +16,4 @@ Tutorials are interactive web documents that instructors can use as in-class act
 2. [Experiment with paper planes](https://dtkaplan.shinyapps.io/Paper_planes/)
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
-
+5. [Survey Responses](https://github.com/joeroith/stat1090/blob/master/docs/responses.csv)

@@ -1,8 +1,11 @@
 # Stat 1090: Statistical Analysis
 
-Welcome to Stat 1090! This is the main site for our course, in addition to MyStatLab
+Welcome to Stat 1090! This is the main site for our course. All homework assignments and access to StatCrunch can be found on the [MyStatLab site](https://portal.mypearson.com/login). This page will contain course information, lecture notes, content reviews, and fun stats related items. Be sure to check this site often for updates about our class.
 
-## Welcome to StatPREP. 
+## Lecture Notes.
+
+### Chapter 1.
+  1. [Notes](U:\github\Ch1_IS4e.pdf)
 
 This page contains links and other student-facing information for StatPREP activities.
 

@@ -5,7 +5,7 @@ Welcome to Stat 1090! This is the main site for our course. All homework assignm
 ## Lecture Notes.
 
 ### Chapter 1.
-  1. [Notes](https://github.com/joeroith/stat1090/blob/master/docs/Ch1_IS4e.pdf)
+  1. [Notes](stat1090/docs/Ch1_IS4e.pdf)
 
 This page contains links and other student-facing information for StatPREP activities.
 

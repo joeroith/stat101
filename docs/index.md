@@ -11,6 +11,7 @@ Welcome to Stat 1090 with Dr. Roith! This is the main site for our course. All h
 
 ### Chapter 1
    1. [Notes](Ch1_IS4e.pdf)
+   
 ### Chapter 2
    1. [Notes](Ch2IS4e.pdf)
 

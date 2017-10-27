@@ -6,11 +6,11 @@ Welcome to Stat 1090 with Dr. Roith! This is the main site for our course. All h
    [Syllabus](Fall_17_Syllabus_1090_D03.pdf)
    [Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSeIy4-yk2q_6gOp1YTKg2rZDi2aXT8wuhY_mgrRPfPvcU7ROw/viewform?usp=sf_link)
 
-## Lecture Notes.
+## Lecture Notes
 
-### Chapter 1.
+### Chapter 1
    1. [Notes](Ch1_IS4e.pdf)
-### Chapter 2.
+### Chapter 2
    1. [Notes](Ch2IS4e.pdf)
 
 ## Data

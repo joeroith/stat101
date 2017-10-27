@@ -1,19 +1,23 @@
 # Stat 1090: Statistical Analysis
 
-Welcome to Stat 1090! This is the main site for our course. All homework assignments and access to StatCrunch can be found on the [MyStatLab site](https://portal.mypearson.com/login). This page will contain course information, lecture notes, content reviews, and fun stats related items. Be sure to check this site often for updates about our class.
+Welcome to Stat 1090 with Dr. Roith! This is the main site for our course. All homework assignments and access to StatCrunch can be found on the [MyStatLab site](https://portal.mypearson.com/login). This page will contain course information, lecture notes, content reviews, and fun stats related items. Be sure to check this site often for updates about our class.
+
+## Class information
+   [Syllabus](Fall_17_Syllabus_1090_D03.pdf)
+   [Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSeIy4-yk2q_6gOp1YTKg2rZDi2aXT8wuhY_mgrRPfPvcU7ROw/viewform?usp=sf_link)
 
 ## Lecture Notes.
 
 ### Chapter 1.
    1. [Notes](Ch1_IS4e.pdf)
+### Chapter 2.
+   1. [Notes](Ch2IS4e.pdf)
 
-This page contains links and other student-facing information for StatPREP activities.
-
-> If you are a student looking for the web page for your own instructor's web site, you're not there. Check with your instructor to make sure that you have the right URL for your instructor's web site.
+## Data
+   1. [Used Porsches](Porsche.csv)
 
 ## Tutorials
-
-Tutorials are interactive web documents that instructors can use as in-class activities or as assignments. Chances are, your instructor has his or her own web site that contains links to the Tutorials being used in your class. But your welcome to browse this site to look at Tutorials that were not assigned.
+Tutorials designed with real data to answer real questions. Take a look at the links below to get an idea of topics we have covered and will cover. Some of these tutorials will be assigned for in-class activities and the rest will be here for you to practice on your own.
 
 1. [Confidence in taxis](https://dtkaplan.shinyapps.io/Confidence_in_Taxis/)
 2. [Experiment with paper planes](https://dtkaplan.shinyapps.io/Paper_planes/)

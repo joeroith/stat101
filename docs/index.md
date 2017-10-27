@@ -1,4 +1,4 @@
-# Stat 1090: Statistical Analysis
+# Stat 1090: Statistical Analysis Fall 2017
 
 Welcome to Stat 1090 with Dr. Roith! This is the main site for our course. All homework assignments and access to StatCrunch can be found on the [MyStatLab site](https://portal.mypearson.com/login). This page will contain course information, lecture notes, content reviews, and fun stats related items. Be sure to check this site often for updates about our class.
 

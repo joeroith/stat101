@@ -26,4 +26,4 @@ Tutorials designed with real data to answer real questions. Take a look at the l
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 5. [Survey Responses](https://github.com/joeroith/stat1090/blob/master/docs/responses.csv)
-
+6. [Using RStudio for Normal Distribution](stat1090/docs/RNormal_out.html)
